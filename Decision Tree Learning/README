@@ -1,0 +1,6 @@
+using Python3 version 3.9.2
+
+Uses Pandas to Read CSV file
+Place the data.csv file in the same location as Python file
+Command to run the file :
+    python3 assignment10.py

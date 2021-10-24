@@ -1,0 +1,8 @@
+using Python 3.9.2
+
+All the input of the grid state are in (col,row) format
+Program reads the mdp_input.txt file to get input. 
+Place the mdp_input.txt file in the same location as Python file
+Do not change the name before ':' in the input file 
+Command to run the file :
+    python mdp.py
